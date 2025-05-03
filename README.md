@@ -24,13 +24,11 @@
 ---
 
 ### 🌱 Currently Learning
-- NIMCET Preparation 🧮
 - Backend + Frontend Development 🧩
 - Building AI Projects 🎯
 
 ---
 
 ### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Portfolio](https://yourportfolio.com)
+
 
